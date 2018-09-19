@@ -1,0 +1,50 @@
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\WindowsUpdate\Setup\ServiceStartup
+HKCU\Control Panel\Desktop\Scrnsave.exe
+HKCU\Environment
+HKCU\Software\Classes\Exefile\Shell\Runas\Command\IsolatedCommand
+HKCU\Software\Classes\Mscfile\Shell\Open\Command
+HKCU\Software\Microsoft\Command Processor\Autorun
+HKCU\Software\Microsoft\Internet Explorer\Desktop\Components
+HKCU\Software\Microsoft\Internet Explorer\Explorer Bars
+HKCU\Software\Microsoft\Internet Explorer\Extensions
+HKCU\Software\Microsoft\Internet Explorer\UrlSearchHooks\Server\Install\Software\Microsoft\Windows\CurrentVersion\Run
+HKCU\Software\Microsoft\Windows NT\CurrentVersion\Run
+HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows\Run
+HKCU\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell
+HKCU\Software\Microsoft\Windows\CurrentVersion\App Paths\Control.exe
+HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce
+HKCU\Software\Microsoft\Windows\CurrentVersion\RunServices
+HKCU\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce
+HKCU\Software\Microsoft\Windows\CurrentVersion\Winlogon
+HKCU\Software\Microsoft\Windows\CurrentVersion\Winlogon
+HKCU\Software\Policies\Microsoft\Windows\Control Panel\Desktop\Scrnsave.exe
+HKCU\Software\Policies\Microsoft\Windows\System\Scripts\Logoff
+HKCU\Software\Wow6432Node\Microsoft\Internet Explorer\Explorer Bars
+HKCU\Software\Wow6432Node\Microsoft\Internet Explorer\Extensions
+HKLM\Software\Microsoft NT\CurrentVersion\Winlogon\System
+HKLM\Software\Microsoft\Windows Nt\CurrentVersion\Imagefileexecutionoptions
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Taskman
+HKLM\Software\Microsoft\Windows\CurrentVersion\GroupPolicy\Scripts\Shutdown
+HKLM\Software\Microsoft\Windows\CurrentVersion\GroupPolicy\Scripts\Startup
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\Shell
+HKLM\Software\Microsoft\Windows\CurrentVersion\Run
+HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce
+HKLM\Software\Microsoft\Windows\CurrentVersion\RunServices
+HKLM\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce
+HKLM\Software\Microsoft\Windows\CurrentVersion\Winlogon
+HKLM\Software\Policies\Microsoft\Windows\System\Scripts\Logoff
+HKLM\Software\Policies\Microsoft\Windows\System\Scripts\Logon
+HKLM\Software\Policies\Microsoft\Windows\System\Scripts\Shutdown
+HKLM\Software\Policies\Microsoft\Windows\System\Scripts\Startup
+HKLM\Software\Wow6432Node\Microsoft\Command\Processor\Autorun
+HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Explorer Bars
+HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Extensions
+HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Toolbar
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Run
+HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\RunOnce
+HKLM\System\CurrentControlSet\Control\LSA
+HKLM\System\CurrentControlSet\Enum\USB
+HKLM\System\CurrentControlSet\Enum\USBTor
