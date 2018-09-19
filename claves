@@ -26,6 +26,13 @@ HKLM\Software\Microsoft\Windows Nt\CurrentVersion\Imagefileexecutionoptions
 HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify
 HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell
 HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Taskman
+HKLM\Software\Microsoft\Windows\CurrentVersion\App Paths
+HKLM\Software\Microsoft\Windows\CurrentVersion\Authentication\Credential Provider Filters
+HKLM\Software\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers
+HKLM\Software\Microsoft\Windows\CurrentVersion\Authentication\PLAP Providers
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellServiceObjects
 HKLM\Software\Microsoft\Windows\CurrentVersion\GroupPolicy\Scripts\Shutdown
 HKLM\Software\Microsoft\Windows\CurrentVersion\GroupPolicy\Scripts\Startup
 HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
@@ -46,5 +53,8 @@ HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Toolbar
 HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Run
 HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\RunOnce
 HKLM\System\CurrentControlSet\Control\LSA
+HKLM\System\CurrentControlSet\Control\SecurityProviders\SecurityProviders
+HKLM\System\CurrentControlSet\Control\SecurityProviders\SecurityProviders\WDigest
+HKLM\System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd
 HKLM\System\CurrentControlSet\Enum\USB
 HKLM\System\CurrentControlSet\Enum\USBTor
