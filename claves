@@ -58,3 +58,5 @@ HKLM\System\CurrentControlSet\Control\SecurityProviders\SecurityProviders\WDiges
 HKLM\System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd
 HKLM\System\CurrentControlSet\Enum\USB
 HKLM\System\CurrentControlSet\Enum\USBTor
+HKLM\SOFTWARE\Microsoft\PowerShell\1\ShellIds\Microsoft.PowerShell 
+HKLM\SYSTEM\CurrentControlSet\services\eventlog\Windows PowerShell
