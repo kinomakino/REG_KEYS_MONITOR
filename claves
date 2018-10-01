@@ -60,3 +60,4 @@ HKLM\System\CurrentControlSet\Enum\USB
 HKLM\System\CurrentControlSet\Enum\USBTor
 HKLM\SOFTWARE\Microsoft\PowerShell\1\ShellIds\Microsoft.PowerShell 
 HKLM\SYSTEM\CurrentControlSet\services\eventlog\Windows PowerShell
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SecurityProviders\WDigest
