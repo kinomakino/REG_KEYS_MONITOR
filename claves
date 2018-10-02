@@ -61,3 +61,5 @@ HKLM\System\CurrentControlSet\Enum\USBTor
 HKLM\SOFTWARE\Microsoft\PowerShell\1\ShellIds\Microsoft.PowerShell 
 HKLM\SYSTEM\CurrentControlSet\services\eventlog\Windows PowerShell
 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SecurityProviders\WDigest
+HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Installer“AlwaysInstallElevated”=dword:00000001
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Installer“AlwaysInstallElevated”=dword:00000001
