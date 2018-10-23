@@ -51,6 +51,7 @@ HKLM\\CurrentControlSet\Services\WlanSvc\Parameters\VendorSpecificIEProviders
 HKLM\SOFTWARE\Microsoft\PowerShell\1\ShellIds\Microsoft.PowerShell 
 HKLM\SYSTEM\CurrentControlSet\services\eventlog\Windows PowerShell
 HKLM\\SYSTEM\CurrentControlSet\Control\SecurityProviders\WDigest
+HKLM\SYSTEM\CurrentControlSet\Control\CrashControl
 HKCU\SOFTWARE\Policies\Microsoft\Windows\Installer“AlwaysInstallElevated”=dword:00000001
 HKCU\Control Panel\Desktop\Scrnsave.exe
 HKCU\Environment
