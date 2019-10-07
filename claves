@@ -80,3 +80,5 @@ HKLM\System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd
 HKLM\System\CurrentControlSet\Enum\USB
 HKLM\System\CurrentControlSet\Enum\USBTor
 HKLM\SYSTEM\CurrentControlSet\services\eventlog\Windows PowerShell
+HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Word\Security\Trusted Locations
+
