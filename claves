@@ -1,8 +1,8 @@
 
 
-   HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows\Appinit_Dlls
-   HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows\Appinit_Dlls
-   HKLM\System\CurrentControlSet\Control\Session Manager\AppCertDlls
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows\Appinit_Dlls
+HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows\Appinit_Dlls
+HKLM\System\CurrentControlSet\Control\Session Manager\AppCertDlls
 HKCU\Control Panel\Desktop\Scrnsave.exe
 HKCU\Environment
 HKCU\Software\Classes\Exefile\Shell\Runas\Command\IsolatedCommand
@@ -80,5 +80,6 @@ HKLM\System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd
 HKLM\System\CurrentControlSet\Enum\USB
 HKLM\System\CurrentControlSet\Enum\USBTor
 HKLM\SYSTEM\CurrentControlSet\services\eventlog\Windows PowerShell
-HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Word\Security\Trusted Locations
+HKCU\USER\Software\Microsoft\Office\16.0\Word\Security\Trusted Locations
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\TelemetryController
 
