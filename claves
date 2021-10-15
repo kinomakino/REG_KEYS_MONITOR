@@ -1,8 +1,3 @@
-
-
-HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows\Appinit_Dlls
-HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows\Appinit_Dlls
-HKLM\System\CurrentControlSet\Control\Session Manager\AppCertDlls
 HKCU\Control Panel\Desktop\Scrnsave.exe
 HKCU\Environment
 HKCU\Software\Classes\Exefile\Shell\Runas\Command\IsolatedCommand
@@ -20,12 +15,64 @@ HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce
 HKCU\Software\Microsoft\Windows\CurrentVersion\RunServices
 HKCU\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce
 HKCU\Software\Microsoft\Windows\CurrentVersion\Winlogon
-HKCU\Software\Microsoft\Windows\CurrentVersion\Winlogon
 HKCU\Software\Policies\Microsoft\Windows\Control Panel\Desktop\Scrnsave.exe
 HKCU\SOFTWARE\Policies\Microsoft\Windows\Installer“AlwaysInstallElevated”=dword:00000001
 HKCU\Software\Policies\Microsoft\Windows\System\Scripts\Logoff
 HKCU\Software\Wow6432Node\Microsoft\Internet Explorer\Explorer Bars
 HKCU\Software\Wow6432Node\Microsoft\Internet Explorer\Extensions
+HKCU\USER\Software\Microsoft\Office\16.0\Word\Security\Trusted Locations
+HKEY_CLASSES_ROOT\CLSID{GUID}
+HKEY_CURRENT_USER \Software\Microsoft\Windows\CurrentVersion\Run\
+HKEY_CURRENT_USER\Software\Bitcoin\Bitcoin-Qt.
+HKEY_CURRENT_USER\Software\Classes\
+HKEY_CURRENT_USER\Software\Classes\CLSID\
+HKEY_CURRENT_USER\Software\Classes\mscfile\shell\open\command
+HKEY_CURRENT_USER\Software\DC3_FEXEC
+HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client\Default
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\WABE\DataPath
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System Enable LUA=”0”
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce
+
+HKEY_CURRENT_USER\Software\Policies\Microsoft\PreviousVersions\DisableLocalPage
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Pniumj
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Reliability Analysis\RAC\WmiLastTime
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{[GUID]}
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\[Task Name]
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SilentProcessExit\
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Windows
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ControlPanel\NameSpace
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ControlPanel\NameSpace
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\PrintConfigs
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\Micromedia
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\Micromedia
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Applications\laxhost.dll
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{[GUID]}.sdb\DisplayName
+HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class\{533c5b84-ec70–11d2–9505–00c04f79deaf}\0000
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\DeviceClasses\{53f5630d-b6bf-11d0–94f2–00a0c91efb8b}\##?#STORAGE#VolumeSnapshot#HarddiskVolumeSnapshot[Number]#{53f5630d-b6bf-11d0–94f2–00a0c91efb8b}\DeviceInstance
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\STORAGE\VolumeSnapshot
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\SharedAccess\Parameters\FirewallPolicy\FirewallRules\TCP Query User{[GUID]}[Path to Tool]
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\VSS
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\VSS\Diag\BITS Writer
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Session Manager
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\BootExecute
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\WMI\Security
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\W32Time\TimeProviders\
+HKEY_USERS\[User SID]\SOFTWARE\Microsoft\Terminal Server Client\Default\MRU0
+HKEY_USERS\[User SID]\SOFTWARE\Microsoft\Terminal Server Client\Servers\[Target Host]\UsernameHint
+HKEY_USERS\[User SID]\Software\Microsoft\Windows Script Host
+HKEY_USERS\[User SID]\Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\CPC\Volume\{[GUID]}
+HKEY_USERS\[User SID]\SOFTwARE\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{[GUID]}\Count\[ROT13 of Path to Tool]\[ROT13 of Tool Executable File Name]
+HKEY_USERS\[User SID]\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{CEBFF5CD-ACE2–4F4F-9178–9926F41749EA}\Count\{1NP14R77–02R7–4R5Q-O744–2RO1NR5198O7}\JvaqbjfCbjreFuryy\i1.0\cbjrefuryy.rkr
+HKEY_USERS\[User SID]\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{CEBFF5CD-ACE2–4F4F-9178–9926F41749EA}\Count\Zvpebfbsg.Jvaqbjf.ErzbgrQrfxgbc
+HKEY_USERS\[User SID]\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Wpad\WpadLastNetwork
+HKEY_USERS\[User SID]\SOFTWARE\Microsoft\Windows\CurrentVersion\Search\JumplistData\Microsoft.Windows.RemoteDesktop
+HKEY_USERS\[User SID]\SOFTWARE\Sysinternals\PsExec\EulaAccepted
+HKEY_USERS\[User SID]\SOFTWARE\Sysinternals\Sdelete
+HKEY_USERS\[User SID]\SOFTWARE\Sysinternals\SDelete\EulaAccepted
+HKEY_USERS\Software\Microsoft\Windows\CurrentVersion\Run
 HKLM\\CurrentControlSet\Control\Cryptography\Providers
 HKLM\\CurrentControlSet\Control\SecurityProviders\SSI\Providers
 HKLM\\CurrentControlSet\Services\LanmanServer\ShareProviders
@@ -41,7 +88,9 @@ HKLM\\SOFTWARE\Policies\Microsoft\Windows\Installer“AlwaysInstallElevated”=d
 HKLM\\SYSTEM\CurrentControlSet\Control\SecurityProviders\WDigest
 HKLM\Software\Microsoft NT\CurrentVersion\Winlogon\System
 HKLM\SOFTWARE\Microsoft\PowerShell\1\ShellIds\Microsoft.PowerShell
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\TelemetryController
 HKLM\Software\Microsoft\Windows Nt\CurrentVersion\Imagefileexecutionoptions
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows\Appinit_Dlls
 HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify
 HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell
 HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Taskman
@@ -70,16 +119,15 @@ HKLM\Software\Wow6432Node\Microsoft\Command\Processor\Autorun
 HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Explorer Bars
 HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Extensions
 HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Toolbar
+HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows\Appinit_Dlls
 HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Run
 HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\RunOnce
 HKLM\SYSTEM\CurrentControlSet\Control\CrashControl
 HKLM\System\CurrentControlSet\Control\LSA
 HKLM\System\CurrentControlSet\Control\SecurityProviders\SecurityProviders
 HKLM\System\CurrentControlSet\Control\SecurityProviders\SecurityProviders\WDigest
+HKLM\System\CurrentControlSet\Control\Session Manager\AppCertDlls
 HKLM\System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd
 HKLM\System\CurrentControlSet\Enum\USB
 HKLM\System\CurrentControlSet\Enum\USBTor
 HKLM\SYSTEM\CurrentControlSet\services\eventlog\Windows PowerShell
-HKCU\USER\Software\Microsoft\Office\16.0\Word\Security\Trusted Locations
-HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\TelemetryController
-
