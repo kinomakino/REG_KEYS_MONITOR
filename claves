@@ -131,5 +131,5 @@ HKLM\System\CurrentControlSet\Control\Session Manager\AppCertDlls
 HKLM\System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd
 HKLM\System\CurrentControlSet\Enum\USB
 HKLM\System\CurrentControlSet\Enum\USBTor
-HKLM\SYSTEM\CurrentControlSet\services\eventlog\Windows PowerShell
-HKLM\SAM\SAM\Domains\Builtin\Aliases\00000220\ 
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Event Viewer
+
